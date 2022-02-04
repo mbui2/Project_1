@@ -13,3 +13,19 @@
           <li><a href="videogames.html">My Favorite Games</a></li>
         </ul>
       </nav>
+    </header>
+    <h1>Michael Bui Resume</h1>
+    <p>A student always striving to be the best version of himself</p>
+    <h2>Contact Information</h2>
+    <p><strong>Email:</strong> mbui2@hawk.iit.edu</p>
+    <p><strong>Personal Email:</strong> mike.buiquang@gmail.com</p>
+    <h2>Skills</h2>
+    <h3>Technical</h3>
+    <ul>
+      <li>Coding Languages: Java,Python, HTML, CSS, JavaScript</li>
+    </ul>
+    <h3>Tools</h3>
+    <ul>
+      <li>Programming: GitHub,</li>
+      <li>Other: Microsoft Word, Excel, PowerPoint, Adobe Photoshop, Adobe Illustrator</li>
+    </ul>
