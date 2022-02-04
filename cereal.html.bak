@@ -29,10 +29,45 @@
         <li>Perfect Chocolate flavor</li>
         <li>buoyancy in milk</li>
       </ul>
+      <img
+        src="Krave.jpeg"
+        alt="image of Krave box"
+      />
+    </div>
+	<div class="Lucky Charms">
+      <h2>Lucky Charms</h2>
+      <p>Lucky Charms is a brand of breakfast cereal produced by the General Mills food company since 1964. The cereal consists of toasted oat pieces and multi-colored marshmallow shapes (or marshmallow bits). </p>
+      <p>
+        the marshmallow pieces come in a variety of fun shapes 
+      </p>
+      <p>Favorite things about Lucky Charms:</p>
+      <ul>
+        <li>Marshmallows </li>
+        <li>that's probably it</li>
+      </ul>
       <iframe
         width="440"
         height="335"
-        src="https://www.youtube.com/watch?v=fjWDoQlAVNc"
+        src="https://youtu.be/THaM1RquBlU"
       ></iframe>
     </div>
-	
+	<div class="Cinnamon Toast Crunch">
+      <h2>Cinnamon Toast Crunch</h2>
+      <p>Cinnamon Toast Crunch, known as Croque-Cannelle in French Canada and Curiously Cinnamon in the UK (previously Cinnamon Grahams), is a brand of breakfast cereal produced by General Mills and Nestlé.</p>
+      <p>
+        While Cinnamon Toast Crunch can be criticized for getting soggy quickly in milk, it's not that big of an issue because it still tastes really good even when it's soggy. 
+      </p>
+      <p>Favorite things about Cinnamon Toast Crunch:</p>
+      <ul>
+        <li>Taste</li>
+        <li>Texture</li>
+        <li>buoyancy in milk</li>
+      </ul>
+      <iframe
+        width="420"
+        height="315"
+        src="https://www.youtube.com/embed/sxxRIKvaBO4"
+      ></iframe>
+    </div>
+  </body>
+</html>
